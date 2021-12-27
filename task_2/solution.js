@@ -46,8 +46,6 @@ function calcDiscount(sum, min, discount) {
 
     // Конец решения задания №2.2.
 
-
-
     return discountSum;
 }
 
